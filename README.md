@@ -23,7 +23,7 @@ This is my personal portfolio website built to showcase my web development skill
 
 ## 🌐 Live Website
 
-https://Mankad3371.github.io/Portfolio/
+https://Mankad3371.github.io/Portfolio-/
 
 ## 📸 Preview
 
